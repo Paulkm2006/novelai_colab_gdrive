@@ -1,0 +1,2 @@
+# novelai_colab_gdrive
+在原版基础上增加了将模型保存至gd的功能
